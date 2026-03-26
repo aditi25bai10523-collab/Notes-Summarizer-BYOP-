@@ -12,7 +12,7 @@ This project is an AI-based Notes Summarizer developed using Python and Natural 
 
 # Tools and Technologies Used
 - Programming Language: Python  
-- Libraries:** NLTK (Natural Language Toolkit)  
+- Libraries:NLTK (Natural Language Toolkit)  
 - Concepts:  
   - Natural Language Processing (NLP)  
   - Tokenization  
