@@ -28,7 +28,7 @@ This project is an AI-based Notes Summarizer developed using Python and Natural 
 6. Top sentences are selected  
 7. Final summary is generated  
 
-#Output
+# Output
 - The system generates a short summary from the given input text  
 - It retains only the most important sentences  
 - Helps in quick understanding and revision  
