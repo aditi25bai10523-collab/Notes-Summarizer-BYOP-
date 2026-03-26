@@ -40,11 +40,11 @@ def summarize_text(text, num_sentences=3):
     return summary
 
 
-# 🔹 User Input
+#  User Input
 text = input("Enter your notes:\n")
 
-# 🔹 Get summary
+#  Get summary
 summary = summarize_text(text, 3)
 
-print("\n🔹 Summary:\n")
+print("\n Summary:\n")
 print(summary)
